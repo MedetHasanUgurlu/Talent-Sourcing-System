@@ -12,5 +12,5 @@ public interface ICandidateService {
     Map<Boolean,String> delete(Long id);
 
     List<CandidateCreateResponse> list();
-
+ sss
 }
